@@ -1,12 +1,59 @@
-## Hi there 👋
+<h1 align="center"> RunDraw </h1>
 
-<!--
+<div align="center">
+<strong>그리고, 달리고, 기록하다.</strong><br>
+러닝 코스를 직접 설계하고, 나만의 GPS Art를 완성해가는 러닝 플랫폼 RunDraw입니다.<br>
+원하는 경로를 직접 그려 러닝 코스를 만들고, 음성 내비게이션을 통해 코스를 따라 달릴 수 있습니다.<br>
+러닝 중에는 페이스와 이동 경로를 기록하고, 완성한 코스는 다른 사용자들과 공유하며 새로운 러닝 경험을 만들어갈 수 있습니다.<br>
+<strong>Draw your route. Run your story.</strong>
+</div>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+---
+
+## 📅 개발 기간
+
+**2026.07.06 ~ 2026.08.07**
+
+---
+
+## 💡 개요
+
+최근 러닝 인구가 증가하면서 단순히 기록을 측정하는 것을 넘어, **자신만의 방식으로 러닝을 즐기는 문화**가 확산되고 있습니다.
+
+특히 GPS 이동 경로를 활용해 그림을 완성하는 **GPS Art**가 새로운 러닝 콘텐츠로 주목받고 있습니다.
+
+하지만 기존 러닝 플랫폼은 주로 **거리, 시간, 페이스 등의 운동 기록**에 초점이 맞춰져 있어, 사용자가 원하는 형태의 GPS Art 코스를 직접 만들고 이를 따라 달리는 경험에는 한계가 있었습니다.
+
+**RunDraw는 이러한 문제에서 출발했습니다.**
+
+사용자가 직접 러닝 코스를 설계하고, 음성 내비게이션을 통해 경로를 안내받으며, 실제 러닝을 통해 하나의 그림을 완성할 수 있도록 서비스를 구현했습니다.
+
+이를 통해 러닝에 **새로운 목표와 재미**를 더하고,
+GPS Art를 매개로 사용자들이 자신의 코스를 공유하며 **함께 러닝 문화를 만들어가는 것**을 목표로 합니다.
+
+---
+
+## 📱 앱 소개
+
+### 🎨 GPS Art 코스 생성
+
+지도 위에서 원하는 경로를 직접 설계하고,
+나만의 GPS Art를 만들 수 있습니다.
+
+### 🎧 음성 내비게이션
+
+러닝 중 화면을 계속 확인하지 않아도
+**음성 안내를 통해 다음 경로를 직관적으로 확인**할 수 있습니다.
+
+### 🏃 러닝 기록
+
+러닝 중 이동 경로와 **러닝 거리 및 시간**을 기록하여
+나의 러닝 과정을 확인할 수 있습니다.
+
+### 🌎 코스 공유
+
+직접 만든 GPS Art 코스를 다른 사용자들과 공유하고,
+다양한 코스를 탐색하며 새로운 러닝 경험을 만들어갈 수 있습니다.
+
